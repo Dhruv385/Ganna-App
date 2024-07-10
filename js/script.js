@@ -131,8 +131,7 @@ async function main(){
         }
         else{
             currSong.pause();
-            play.src="img/
-            play.svg";
+            play.src="img/play.svg";
         }
     })
     // Listen for timeupdate event
